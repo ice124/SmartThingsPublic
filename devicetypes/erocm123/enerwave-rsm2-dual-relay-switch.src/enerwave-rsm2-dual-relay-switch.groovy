@@ -4,7 +4,7 @@
  *  
  *	Author: Eric Maycock (erocm123)
  *	email: erocmail@gmail.com
- *	Date: 2016-03-25
+ *	Date: 2016-03-25 - 2017
  * 	 
  *	Device Type supports all the feautres of the Enerwave RSM2 device including both switches, 
  *	and the AllOn/AllOff functionality. 
